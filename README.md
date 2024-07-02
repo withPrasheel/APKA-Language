@@ -1,4 +1,4 @@
-# SER502-APKA-Team20
+# APKA Language
 
 ## Introduction:
 
@@ -7,56 +7,63 @@ Welcome to our project! This project is designed to showcase the capabilities of
 ![image](https://github.com/withPrasheel/APKA-Language/assets/38638028/7790c338-f1a6-465d-bac2-9c3f8bac59d7) 
 
 ## Languages Used:
+```
 Lexer - Python
 Parser, Evaluator - Prolog
+```
 
 ## Components of the Design:
-.APKA: The APKA source code file serves as the initial input to the pipeline.
+```
+.APKA: The APKA source code file serves as the initial input to the pipeline. 
 LEXER.PY: The lexer script reads the APKA source code and generates tokenized output.
 .APKATOKENS: The tokenized output from the lexer is stored in a file.
 PARSER.PL: The parser reads the tokenized output and generates a parse tree.
 EVALUATOR.PL: Finally, the evaluator takes the parse tree as input and executes the instructions, producing the desired output.
-
-## Program Structure:
-Programs are enclosed within {} and consist of a list of commands
+```
 
 # Commands and Command-List:
-Commands are the fundamental units within a Program. 
-They can be categorized into two
-types: those without a block and those with a block. 
-A sequence of one or more commands forms a command list. Commands that do not include a block must end with a semicolon (;).
+- Commands are the fundamental units within a Program. 
+- They can be categorized into two types: those without a block and those with a block. 
+- A sequence of one or more commands forms a command list. 
+- Commands that do not include a block must end with a semicolon (;).
+
 Examples:
 Without block: ”chaap” ("Hello World");
 With block: Enclosed within {}.
-Block:
+
+## Block:
 A block is a collection of one or more commands enclosed within curly braces {}.
 Example:
+```
 {
-// commands
+  // commands
 }
+```
 
 ## Commands:
-For Loop
-While Loop
-Enhanced For Loop
-If Statement
-If-Elif-Else Statement
-Print Statement
-Variable Declaration
-Variable Assignment
+- For Loop
+- While Loop
+- Enhanced For Loop
+- If Statement
+- If-Elif-Else Statement
+- Print Statement
+- Variable Declaration
+- Variable Assignment
 
-## Commands with block:
+## Commands in Apka
 ### Variable Types:
-Integer (chotu)
-Boolean (nirnaya)
-String (vakya)
+- Integer (chotu)
+- Boolean (nirnaya)
+- String (vakya)
 
 ### Operations:
-Arithmetic Operations (+, -, *, /)
-Comparison Operations (==, <, >, <=, >=)
-Boolean Operations (&& ,||, !)
-Ternary Operator (? :)
-Unary Operator (++, --)
+- Arithmetic Operations (+, -, *, /)
+- Comparison Operations (==, <, >, <=, >=)
+- Boolean Operations (&& ,||, !)
+- Ternary Operator (? :)
+- Unary Operator (++, --)
+
+---------------------
 
 # Replication Steps
 
@@ -101,4 +108,4 @@ Replace <Filename> with the name of the program file you want to execute. The pr
 ## Sample Program Files:
 
 Sample program files are provided in the data folder of our project. You can use these files to test the interpreter and explore its capabilities. Feel free to create your own program files following our grammar format and place them in the data folder for execution.
-# APKA-Language
+
