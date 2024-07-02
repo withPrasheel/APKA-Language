@@ -4,7 +4,8 @@
 
 Welcome to our project! This project is designed to showcase the capabilities of our grammar-based program interpreter. With this interpreter, you can run programs written in our specific grammar format, enabling you to execute various tasks with ease.
 
-![image](https://capture.dropbox.com/cmPfVJLMdekKimaR) 
+<img width="572" alt="Screenshot 2024-07-02 at 4 58 29 PM" src="https://github.com/withPrasheel/APKA-Language/assets/38638028/8f024023-3c02-4247-a275-be8e08c2fc97">
+
 
 ## Languages Used:
 ```
