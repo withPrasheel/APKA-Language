@@ -4,7 +4,7 @@
 
 Welcome to our project! This project is designed to showcase the capabilities of our grammar-based program interpreter. With this interpreter, you can run programs written in our specific grammar format, enabling you to execute various tasks with ease.
 
-![image](https://github.com/withPrasheel/APKA-Language/assets/38638028/7790c338-f1a6-465d-bac2-9c3f8bac59d7) 
+![image](https://capture.dropbox.com/cmPfVJLMdekKimaR) 
 
 ## Languages Used:
 ```
@@ -62,6 +62,23 @@ Example:
 - Boolean Operations (&& ,||, !)
 - Ternary Operator (? :)
 - Unary Operator (++, --)
+
+### Example code
+Sum of N numbers
+```
+{ 
+  chotu sum;
+  sum = 0;
+  chotu i;
+  i = 5;
+  jabtak(i >= 1) {
+    sum = sum + i;
+    --i;
+  }
+  chaap("Sum of first 5 numbers: ");
+  chaap(sum);
+}
+  ```
 
 ---------------------
 
