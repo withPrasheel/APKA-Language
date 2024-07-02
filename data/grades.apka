@@ -1,0 +1,16 @@
+{
+  chotu marks;
+  marks = 75; 
+
+  jab(marks >= 90) {
+    chaap("Grade: A+");
+  } nahito jab(marks >= 80) {
+    chaap("Grade: A");
+  } nahito jab(marks >= 70) {
+    chaap("Grade: B");
+  } nahito jab(marks >= 60) {
+    chaap("Grade: C");
+  } nahito {
+    chaap("Grade: D");
+  }
+}

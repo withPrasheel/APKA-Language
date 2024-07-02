@@ -1,0 +1,12 @@
+{
+    chotu num;
+    num = 7;
+    chotu itr;
+    chotu response;
+    response = 1;
+    tabtak itr se range(1; num) {
+        response = response * itr;
+    }
+    chaap("Factorial of 7 is");
+    chaap(response);
+}

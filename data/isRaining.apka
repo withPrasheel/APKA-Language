@@ -1,0 +1,11 @@
+{
+    nirnaya x;
+    x = jhoot;
+    nirnaya y;
+    y = jhoot;
+    jab (x == sach) {
+        chaap("It is Raining");
+    } nahito {
+        chaap("It is not raining");
+    }
+}

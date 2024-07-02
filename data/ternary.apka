@@ -1,0 +1,9 @@
+  {
+    chotu x;
+    chotu y;
+    x = 10;
+    chotu z;
+    y = 10;
+    z = x == y ? 10 : 15;
+    chaap(z);
+  }  

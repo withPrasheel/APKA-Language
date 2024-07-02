@@ -1,0 +1,14 @@
+Project Contributions for Milestone 1:
+
+Prasheel Nandwana: Worked on the syntax decision and grammer of the language
+Anjali Bharuka: Added documentation and analysed tokenization technique for the project
+Asad Shaikh: Worked on the looping grammer of the language
+Kushagra Kartik: Worked on documentation and syntax decision of the language
+
+
+Project Contributions for Milestone 2:
+Prasheel Nandwana: Worked on the tokenization technique and Evaluator to return the output.
+Anjali Bharuka: Worked on the Parser technique to return the parse tree and the documentaion for the project.
+Kushagra Kartik: Worked on the Parser technique to return the parse tree and on the evaluator to return the output.
+Asad Shaikh: Worked on the script to run the apka file to give the output.
+ 

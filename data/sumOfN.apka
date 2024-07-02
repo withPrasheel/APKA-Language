@@ -1,0 +1,12 @@
+{ 
+  chotu sum;
+  sum = 0;
+  chotu i;
+  i = 5;
+  jabtak(i >= 1) {
+    sum = sum + i;
+    --i;
+  }
+  chaap("Sum of first 5 numbers: ");
+  chaap(sum);
+}

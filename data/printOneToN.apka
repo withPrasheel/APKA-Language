@@ -1,0 +1,8 @@
+
+{ 
+  chotu i;
+  chaap("Numbers between 1 and 10 are:");
+  tabtak(i=1; i <= 10; ++i) {
+    chaap(i);
+  }
+}

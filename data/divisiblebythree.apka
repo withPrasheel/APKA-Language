@@ -1,0 +1,11 @@
+{ 
+  chotu i;
+  chaap("Numbers from 1 to 20 divisible by 3:");
+  tabtak(i = 1; i <= 20; ++i) {
+    chotu remainder;
+    remainder = i - (3 * (i / 3));
+    jab(remainder == 0) {
+      chaap(i);
+    }
+  }
+}
