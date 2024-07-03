@@ -85,8 +85,10 @@ Sum of N numbers
   chaap("Sum of first 5 numbers: ");
   chaap(sum);
 }
-  ```
+![image](https://github.com/withPrasheel/APKA-Language/assets/38638028/90ca59da-fb36-447d-bf4e-c8242f04cc16)
 
+  ```
+[![Watch the video](https://github.com/withPrasheel/APKA-Language/assets/38638028/90ca59da-fb36-447d-bf4e-c8242f04cc16)](https://www.youtube.com/watch?v=NR8GKEakIG8&ab_channel=WithPrasheel)
 ---------------------
 
 # Replication Steps
